@@ -91,4 +91,4 @@ If you find any issues or have suggestions for improvements, feel free to fork t
 
 ## LICENSE
 
-This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/jotavare/ft_printf/blob/master/LICENSE) file.
+This project is available under the MIT License. For further details, please refer to the [LICENSE](https://github.com/koraymullaoglu/ft_printf/blob/main/LICENSE) file.
